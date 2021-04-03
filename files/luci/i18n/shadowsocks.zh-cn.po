@@ -191,10 +191,10 @@ msgid "Multiprocessing"
 msgstr "多进程"
 
 msgid "Auto(%u processes)"
-msgstr "自动(%u个进程)"
+msgstr "自动 (%u个进程)"
 
 msgid "%u processes"
-msgstr "%u个进程"
+msgstr "%u 个进程"
 
 msgid "Subscription Manage"
 msgstr "订阅管理"
@@ -221,7 +221,7 @@ msgid "Update Now"
 msgstr "立即更新"
 
 msgid "Updating..."
-msgstr "更新中……"
+msgstr "更新中..."
 
 msgid "Update Completed"
 msgstr "更新完成"
